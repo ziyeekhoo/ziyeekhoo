@@ -205,7 +205,6 @@ An individual project matching unknown images against a known-image database acr
 
 | Experience | Highlight |
 | :--- | :--- |
-| **Teaching** | TA experience in Computer Vision and Information & Networks |
 | **ICMS Industry Insights** | Deputy Project Executive Director · consultant/stakeholder coordination with the organising team |
 | **P&G PEAKathon 2025** | National Champion |
 | **RIFAR Challenge 2026** | 1st Runner-Up, Marathon Track · flood-resilience proposal |
