@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>B.Eng (Hons) Electrical & Computer Systems Engineering · Minor in Artificial Intelligence</b><br />
-  Monash University Malaysia · Electrical & Electronic Engineering exchange at the University of Sheffield
+  Monash University · Electrical & Electronic Engineering Exchange at The University of Sheffield
 </p>
 
 <p align="center">
