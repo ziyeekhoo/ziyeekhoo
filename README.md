@@ -94,10 +94,7 @@ Designed and implemented a 16-bit multi-cycle processor in Verilog.
 
 **Embedded Systems · Digital Logic · FSM · Hardware Integration**
 
-</details>
 
-<details>
-<summary>🖥️ <b>University of Sheffield — Computer Architecture</b></summary>
 
 </details>
 
